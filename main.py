@@ -69,7 +69,7 @@ def run_quiz():
     print(f"Процент: {percent:.0f}%")
 
     if percent == 100:
-        print("Отличный результат!")
+        print("Превосходный результат!")
     elif percent >= 60:
         print("Хороший результат.")
     else:
